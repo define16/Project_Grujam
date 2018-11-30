@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "674924228756",
+    "firebase_url": "https://pushtest-ab89b.firebaseio.com",
+    "project_id": "pushtest-ab89b",
+    "storage_bucket": "pushtest-ab89b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674924228756:android:aeeab3d40bc92506",
+        "android_client_info": {
+          "package_name": "com.example.user.glujam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674924228756-bqgm11urr08st5ch3i6qjo0j4sihv8qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMiHLyv_GXPUuBbOifkUBMfwKlFaRlfn8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
